@@ -1,2 +1,7 @@
-# wp-change-password-reset-email
-Code snippets for your functions.php to change the default texts of the e-mail that is sent when someone requests a new password.
+# How to change your e-mail texts:
+
+1. Create a Child Theme for your WordPress installation
+2. Paste the code from functions-snippets.php into your child theme's functions.php
+3. Edit the message texts according to your wishes
+4. Upload the edited functions.php
+5. All done.
