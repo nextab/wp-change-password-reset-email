@@ -25,4 +25,4 @@ Ihr Webmaster';
 // Return the filtered message.
 return $message;
 }
-add_filter( 'retrieve_password_message', 'nxt_retrieve_password_message', 10, 4 );
+add_filter( 'retrieve_password_message', 'nxt_retrieve_password_message', 10, 3 );
